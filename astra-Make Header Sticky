@@ -1,0 +1,31 @@
+/*Make Header Sticky*/
+
+.main-header-bar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+/*Adjust Content Padding*/
+.site-content {
+    padding-top: 75px;
+}
+
+/*Adjust Content Padding for Mobile* 
+@media (max-width: 800px) {
+    .site-content {
+        padding top: 175px;
+    }
+}
+
+/*Adjust Content Padding for Mobile*
+@media (max-width: 650 px) {
+    .site-content {
+        padding-top: 200 px;
+    }
+}
+
+/*Make Header Semi Transparent*
+.main-header-bar {
+    background: rgba (340,0,0, .5);
+}
